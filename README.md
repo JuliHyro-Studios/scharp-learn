@@ -17,7 +17,7 @@
 
 ---
 
-## 📖 Overview
+## 📖 Overview | Tổng quan
 
 ### 🇬🇧 English
 
@@ -25,9 +25,9 @@ A collection of fundamental C# and .NET lessons.
 
 > **Note**
 >
-> The lessons in this repository are based on materials by JuliHyro. They may contain errors, and some parts may be difficult for certain readers to understand.
+> The lessons in this repository are based on materials by JuliHyro. They may contain errors, and some explanations may be difficult for certain readers to understand.
 >
-> Please provide constructive feedback or submit a pull request to fix any issues rather than attacking or disparaging the authors of these lessons.
+> Constructive feedback and pull requests to correct errors or improve the lessons are welcome. Please help improve the content rather than attacking or disparaging its authors.
 
 ### 🇻🇳 Tiếng Việt
 
@@ -37,23 +37,43 @@ Tập hợp các bài học cơ bản về C# và .NET.
 >
 > Các bài học trong repository này dựa trên kiến thức và tài liệu của JuliHyro. Nội dung có thể còn sai sót và một số phần có thể hơi khó hiểu đối với một số người đọc.
 >
-> Hãy đóng góp ý kiến mang tính xây dựng hoặc gửi pull request để sửa lỗi, thay vì công kích hay miệt thị những người biên soạn bài học.
+> Mọi góp ý mang tính xây dựng và pull request nhằm sửa lỗi hoặc cải thiện bài học đều được hoan nghênh. Hãy cùng nhau hoàn thiện nội dung thay vì công kích hoặc miệt thị những người biên soạn.
 
 ---
 
 ## 🤝 Contributions | Đóng góp
 
+### 🇬🇧 English
+
 Contributions and constructive feedback are welcome!
+
+- Report errors or suggest improvements through [GitHub Issues](../../issues).
+- Submit a pull request to fix errors or improve the lessons.
+- Keep discussions respectful and constructive.
+
+### 🇻🇳 Tiếng Việt
 
 Mọi đóng góp và góp ý mang tính xây dựng đều được hoan nghênh!
 
-- Report errors or suggest improvements through Issues.
-- Submit pull requests to correct mistakes or improve lesson explanations.
-- Keep discussions respectful and constructive.
-
-- Báo cáo lỗi hoặc đề xuất cải thiện thông qua Issues.
-- Gửi pull request để sửa lỗi hoặc cải thiện cách giải thích bài học.
+- Báo cáo lỗi hoặc đề xuất cải thiện thông qua [GitHub Issues](../../issues).
+- Gửi pull request để sửa lỗi hoặc cải thiện nội dung bài học.
 - Tôn trọng mọi người và giữ cho các cuộc thảo luận mang tính xây dựng.
+
+---
+
+## ⚠️ Warning | Cảnh báo
+
+### 🇬🇧 English
+
+The lessons and source code in this repository are developed with the assistance of artificial intelligence (AI) and real human and reviewed before publication. However, errors or inaccuracies may still occur.
+
+We will continue to review the content and correct identified issues to improve the quality of the lessons and source code.
+
+### 🇻🇳 Tiếng Việt
+
+Các bài giảng và mã nguồn trong repository này được xây dựng với sự hỗ trợ của trí tuệ nhân tạo (AI) và người thật và được kiểm tra trước khi công bố. Tuy nhiên, nội dung vẫn có thể tồn tại một số lỗi hoặc điểm chưa chính xác.
+
+Chúng tôi sẽ tiếp tục rà soát và sửa chữa những vấn đề được phát hiện nhằm cải thiện chất lượng bài giảng và mã nguồn.
 
 ---
 
